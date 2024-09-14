@@ -42,6 +42,10 @@
     "lint": "eslint src",
     "test": "vscode-test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vitor3g/theme-switch.git"
+  },
   "devDependencies": {
     "@types/vscode": "^1.93.0",
     "@types/mocha": "^10.0.7",
