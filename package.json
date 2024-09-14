@@ -1,6 +1,6 @@
 {
-  "name": "theme-switch",
-  "displayName": "theme-switch",
+  "name": "theme-switch-extension",
+  "displayName": "Theme Switch By Extension",
   "author": "Vítor Ribeiro <codevitor3g@gmail.com>",
   "description": "A color theme switcher by file extension",
   "version": "0.0.1",
@@ -8,13 +8,16 @@
     "vscode": "^1.93.0"
   },
   "categories": [
-    "Other"
+    "Other",
+    "Themes"
   ],
   "activationEvents": [
     "onStartupFinished",
     "onDidOpenTextDocument"
   ],
+  "icon": "assets/icon.png",
   "main": "./dist/extension.js",
+  "publisher": "vitor3g",
   "contributes": {
     "configuration": {
       "title": "Theme Switch Configuration",
