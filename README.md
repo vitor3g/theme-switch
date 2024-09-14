@@ -4,7 +4,7 @@
 
 🇺🇸 **EN:** The Theme Switch extension allows you to automatically switch the color theme based on the file extension you are editing.
 
-![Theme Switch GIF](theme-switch.gif)
+![Theme Switch GIF](assets/theme-switch.gif)
 
 ## File Association
 
